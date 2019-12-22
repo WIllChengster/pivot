@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.screen{
+    margin: 5rem;
+    border: 1px solid black;
+    height: 600px;
+    width: 800px;
+    position: relative;
+}
